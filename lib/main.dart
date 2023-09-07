@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:tbs/auth_gate.dart';
-
+import 'package:tbs/booking.dart';
+import 'package:tbs/ticket.dart';
 import 'firebase_options.dart';
 
 void main() async {
@@ -18,6 +19,6 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: const AuthGate());
+    return MaterialApp(home: AuthGate());
   }
 }

@@ -13,6 +13,7 @@ dependencies:
   google_sign_in: ^6.1.5
   firebase_auth: ^4.9.0
   firebase_ui_auth: ^1.7.0
+  qr_flutter: ^4.1.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
