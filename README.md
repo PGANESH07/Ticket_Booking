@@ -1,24 +1,20 @@
 # A Ticket Booking App
-To start contributing to this repository, follow the outlined steps:
-This is a flutter based project so installing flutter platform is mandatory.
-after you're done with installing flutter.
+This is a very simple application, can be changed in various areas.
+fee l free to make your own version
 1. clone the repository
 2. make any changes to flutter app in any platform i.e ( android, ios, web)
 3. flutter run
-4. flutter build web --release for web
-5. CI/CD are yet to be decided
-6. mobile scanner requires latest sdk 21
-7. kotlin-gradle plugin is updated to 1.9.10
-8.when you try to save a widget as a image always remember to change background color of the widget to white.
-9. there is conflict between dart html package and android build.
-using dio
-delete the tools.stamp file and aadd --disable-web-security in chrome to avoid cors isssue on web platform.
-Built build\app\outputs\flutter-apk\app-debug.apk.
+4. mobile scanner requires latest sdk 21
+5. kotlin-gradle plugin is updated to 1.9.10
+6.when you try to save a widget as a image always remember to change background color of the widget to white.
+delete the tools.stamp file and add --disable-web-security in chrome to avoid cors isssue on web platform.
 images in web has been fixed with windows renderer as html line
 flutter canvas kit problem is solved with new flutter build web --web-renderer canvaskit
-progrss indicator in qr image is being wasted to design changes.
-future .delayed can be used to show immediate action like tutorial of app
 
-build commands :
+![Qr_code](https://github.com/PGANESH07/Ticket_Booking/assets/84625240/ed06115d-06fe-4516-bd50-e2238fc35ac6)
 
-web : flutter build web --web-renderer canvaskit
+![Detail_form](https://github.com/PGANESH07/Ticket_Booking/assets/84625240/9eb79abe-5cfd-4d56-8140-773f5e95e666)
+
+![Location_cards](https://github.com/PGANESH07/Ticket_Booking/assets/84625240/6a0fd9bd-d959-4a2f-8492-3ad122f9a4e2)
+
+![State_Cards](https://github.com/PGANESH07/Ticket_Booking/assets/84625240/65dfb16b-20f3-469a-910f-2775d69b05ba)
