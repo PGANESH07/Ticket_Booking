@@ -11,11 +11,10 @@ delete the tools.stamp file and add --disable-web-security in chrome to avoid co
 images in web has been fixed with windows renderer as html line
 flutter canvas kit problem is solved with new flutter build web --web-renderer canvaskit
 
-![Qr_code](https://github.com/PGANESH07/Ticket_Booking/assets/84625240/ed06115d-06fe-4516-bd50-e2238fc35ac6)
-
-![Detail_form](https://github.com/PGANESH07/Ticket_Booking/assets/84625240/9eb79abe-5cfd-4d56-8140-773f5e95e666)
-
-![Location_cards](https://github.com/PGANESH07/Ticket_Booking/assets/84625240/6a0fd9bd-d959-4a2f-8492-3ad122f9a4e2)
-
 ![State_Cards](https://github.com/PGANESH07/Ticket_Booking/assets/84625240/159b5667-7677-4f63-834c-1d84ada71b55)
+![Location_cards](https://github.com/PGANESH07/Ticket_Booking/assets/84625240/cddf6cf3-62ab-4c05-8dc6-3382a921f75b)
+![Detail_form](https://github.com/PGANESH07/Ticket_Booking/assets/84625240/dcbe7f84-ac1e-4daf-a647-b31204b84d85)
+![Qr_code](https://github.com/PGANESH07/Ticket_Booking/assets/84625240/2801592f-dc93-4c43-aaf0-401867be21af)
+
+
 
