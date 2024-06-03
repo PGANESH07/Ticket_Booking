@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "598331252747",
+    "project_id": "ticketbookingsystem-169c7",
+    "storage_bucket": "ticketbookingsystem-169c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598331252747:android:ff0dc68e7236fb53eea70e",
+        "android_client_info": {
+          "package_name": "com.example.tbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598331252747-pev3vovecqf53h426tr717durg5p6li7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tbs",
+            "certificate_hash": "657c71b6debb52b153c4a2f4d59e40a27f700674"
+          }
+        },
+        {
+          "client_id": "598331252747-tjaq8mrd307qc57eun0gq71iaaqivcse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgqH2je0c8yIffOCJ4LoeWELSCYBx_HZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598331252747-3rbfcn02c11g9rchal3p0tpopra8nknv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598331252747-9f1i8pahm556lgfs4lpm5ornhe6v42ul.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tbs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

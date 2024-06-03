@@ -1,0 +1,38 @@
+name: tbs
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.15.1
+  google_sign_in: ^6.1.5
+  firebase_auth: ^4.9.0
+  firebase_ui_auth: ^1.7.0
+  qr_flutter: ^4.1.0
+  firebase: ^9.0.3
+  cloud_firestore: ^4.9.2
+  screenshot: ^2.1.0
+  url_launcher: ^6.1.14
+  firebase_storage: ^11.3.1
+  image_network: ^2.5.4+1
+  image: ^4.1.3
+  cupertino_icons: ^1.0.6
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/andhra/
+    - assets/images/bengal/
+    - assets/images/gujarat/
+    - assets/images/maharashtra/
+    - assets/images/tamil/
+    - assets/images/telangana/
