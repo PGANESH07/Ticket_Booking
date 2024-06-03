@@ -1,15 +1,18 @@
 # A Ticket Booking App
+
+Application uses
+Firebase features like Authentication, FireStore.
+
 This is a very simple application, can be changed in various areas.
-fee l free to make your own version
+feel free to make your own version
 1. clone the repository
 2. make any changes to flutter app in any platform i.e ( android, ios, web)
 3. flutter run
 4. mobile scanner requires latest sdk 21
 5. kotlin-gradle plugin is updated to 1.9.10
 6.when you try to save a widget as a image always remember to change background color of the widget to white.
-delete the tools.stamp file and add --disable-web-security in chrome to avoid cors isssue on web platform.
-images in web has been fixed with windows renderer as html line
-flutter canvas kit problem is solved with new flutter build web --web-renderer canvaskit
+7.delete the tools.stamp file and add --disable-web-security in chrome to avoid cors isssue on web platform.
+8.flutter canvas kit problem is solved with new flutter build web --web-renderer canvaskit
 
 ![State_Cards](https://github.com/PGANESH07/Ticket_Booking/assets/84625240/159b5667-7677-4f63-834c-1d84ada71b55)
 ![Location_cards](https://github.com/PGANESH07/Ticket_Booking/assets/84625240/cddf6cf3-62ab-4c05-8dc6-3382a921f75b)
